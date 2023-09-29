@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="es"><Esri><CreaDate>20230929</CreaDate><CreaTime>13554600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20230929" Time="100030">RasterToPolygon Watersh_Flow3 "C:\Users\Jose Manuel\OneDrive\Escritorio\Nueva carpeta\Poligono_C4.shp" SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
