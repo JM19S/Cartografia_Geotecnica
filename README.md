@@ -1,4 +1,5 @@
-<p # Cartografia_Geotecnica 
+<p align="center">
+# Cartografia_Geotecnica 
 ## Jose Manuel Sepulveda Rueda
 ## Docente: Edier Aristizabal 
 ##     2023-2
